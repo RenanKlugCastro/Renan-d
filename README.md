@@ -1,1 +1,16 @@
-# Renan-d
+Endereço=Texto
+telefone=numero inteiro
+salario=real
+cpf=numero inteiro
+preço=real
+temperatura=real
+casado=booleana
+nascimento=data
+vacinado=data
+preco_gasolina=real
+litros_gasolina=real
+preco_pao=real
+total_compras=
+idade=numero intreiro
+data_contrato=data
+nivel_escolaridade=inteiro
